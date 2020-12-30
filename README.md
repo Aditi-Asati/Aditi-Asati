@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning web development and Data Analysis.
 - 👯 I’m looking to collaborate on automating my workflow.
 - 🤔 I’m looking for help with the design of my website.
-- 💬 Ask me about non-fictional book recommendations on psychology, mind, self help, etc.
+- 💬 Ask me about non-fictional book recommendations on psychology, mind, spirituality, self help, etc.
 
 
