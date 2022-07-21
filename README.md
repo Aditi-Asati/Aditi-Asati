@@ -1,9 +1,9 @@
 ### Sup Everyone! 
 
-- 🔭 I’m currently working on building my website and conducting a study!
-- 🌱 I’m currently learning web development and Data Analysis.
-- 👯 I’m looking to collaborate on automating my workflow.
-- 🤔 I’m looking for help with the design of my website.
-- 💬 Ask me about non-fictional book recommendations on psychology, mind, spirituality, self help, etc.
+- 🔭 I’m currently working on building the HVC model of neurons
+- 🌱 I’m currently learning python.
+- 👯 I’m looking for project ideas that involves automation using python
+- 💬 Ask me about non-fictional book recommendations!
+
 
 
